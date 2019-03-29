@@ -1,0 +1,22 @@
+#slider {
+    position: relative;
+    height: 300px;
+    width: 700px;
+    margin: auto;
+}
+img {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#btn{
+    margin-left: 42%;
+    margin-bottom: 30px;
+}
+
+#prev, #next{
+    background-color: orange;
+    width: 80px;
+    height: 40px;
+}
